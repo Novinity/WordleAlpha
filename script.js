@@ -13049,6 +13049,22 @@ const dictionary = [
   "shave",
 ];
 
+const congratsMessages = [
+  "Keep Gooning!! 🎉",
+  "Mewmaster! 🎉",
+  "You're So Skibidi, You’re So Fanum Tax 🥳",
+  "Looksmaxxer Beast! 🤩",
+  "You're the Rizzler! 😋",
+  "Negative Ohio 🤯",
+  "You're the Alpha, You’re the leader!!! 🐺",
+  "Queer 🌈",
+  "Your Gyatt is Fully Stuck Out! 😇",
+  "Erm.. What the Scallop! 😳",
+  "Youw Litely Bussin.. 💯",
+  "wake up wake up wake up",
+  "Firee!! Fyeeee!! 🤰🔥"
+]
+
 const keyboard = document.querySelector("[data-keyboard]");
 const guessGrid = document.querySelector("[data-guess-grid]");
 const alertContainer = document.querySelector("[data-alert-container]");
@@ -13229,7 +13245,7 @@ function shakeTiles(tiles) {
 
 function checkWinLose(guess, tiles) {
   if (guess === targetWord) {
-    showAlert("You Win!!! 🎉🎉", 6000);
+    showAlert(congratsMessages[Math.floor(Math.random() * congratsMessages.length)], 6000);
     danceTiles(tiles);
     stopInteraction();
     return;
