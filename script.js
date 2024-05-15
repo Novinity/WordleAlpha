@@ -13052,11 +13052,11 @@ const dictionary = [
 const congratsMessages = [
   "Keep Gooning!! 🎉",
   "Mewmaster! 🎉",
-  "You're So Skibidi, You’re So Fanum Tax 🥳",
+  "You're So Skibidi, You're So Fanum Tax 🥳",
   "Looksmaxxer Beast! 🤩",
   "You're the Rizzler! 😋",
   "Negative Ohio 🤯",
-  "You're the Alpha, You’re the leader!!! 🐺",
+  "You're the Alpha, You're the leader!!! 🐺",
   "Queer 🌈",
   "Your Gyatt is Fully Stuck Out! 😇",
   "Erm.. What the Scallop! 😳",
