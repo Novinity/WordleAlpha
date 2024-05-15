@@ -13062,7 +13062,8 @@ const congratsMessages = [
   "Erm.. What the Scallop! 😳",
   "Youw Litely Bussin.. 💯",
   "wake up wake up wake up",
-  "Firee!! Fyeeee!! 🤰🔥"
+  "Firee!! Fyeeee!! 🤰🔥",
+  "And yep! It's all over the screen! Gyattebayo! 🤪"
 ]
 
 const keyboard = document.querySelector("[data-keyboard]");
